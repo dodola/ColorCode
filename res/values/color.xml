@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="white">#FFFFFF</color> <!-- 白色 -->
+
+    <color name="yellow">#FFF000</color>
+    <color name="gray">#A6A6A0</color>
+    <color name="orange">#ff9900</color>
+    <color name="deepcolor">#faaa5f</color>
+    <color name="shadowcolor">#333333</color>
+    <color name="naming">#ABABAB</color>
+    <color name="red">#FF0000</color>
+    <color name="background">#272727</color>
+    <color name="orange_yellow">#9b9ba0</color>
+
+    <drawable name="semi_black">#80000000</drawable>
+
+    <color name="remote_connect_text">#FFe78018</color>
+    <color name="remote_disconnect_text">#FF901821</color>
+    <color name="pagebg_color">#fff1f1f1</color>
+    <color name="page_text_color">#ff000000</color>
+    <color name="default_text_color">#ff333333</color>
+    <color name="default_grey_text_color">#ff888888</color>
+    <color name="wight_text_color">#ffffffff</color>
+    <color name="wifiname_color">#ff666666</color>
+    <color name="ftp_ip_text_color">#ffff7e00</color>
+    <color name="start_text_color">#ff333333</color>
+    <color name="close_text_color">#ff333333</color>
+    <color name="file_name_highlight_color">#ffffffff</color>
+    <color name="category_press_color">#ffe6e7e9</color>
+    <color name="file_list_diver_line_color">#ffdbdbdb</color>
+    <color name="file_list_first_line_name_color">#ff333333</color>
+    <color name="file_list_first_line_num_color">#ff888888</color>
+    <color name="file_list_second_line_color">#ff888888</color>
+    <color name="title_bar_unselected_color">#7fffffff</color>
+    <color name="category_grey_seprator_color">#ffd4d4d4</color>
+    <color name="titlebar_wight_color">#21ffffff</color>
+    <color name="titlebar_black_color">#21000000</color>
+    <color name="btn_unpress_color">#c0e2e4e7</color>
+    <color name="btn_press_color">#ff2e9cd3</color>
+    <color name="text_enable_color">#ff51575f</color>
+    <color name="text_unenable_color">#ffa2a5a7</color>
+    <color name="text_select_color">#ffffffff</color>
+    <color name="navigation_select_bg_color">#ff2e9cd3</color>
+    <color name="pic_seprator">#ffc1c1c1</color>
+    <color name="password_input">#ff333333</color>
+    <color name="password_input_over">#ff888888</color>
+    <color name="normal_text_color">#ff000000</color>
+
+</resources>

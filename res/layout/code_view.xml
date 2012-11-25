@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativeLayout1"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="horizontal" >
+
+    <WebView
+        android:id="@+id/codeview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/LinearLayout01" >
+    </WebView>
+
+    <View
+        android:id="@+id/main_shape"
+        android:layout_width="fill_parent"
+        android:layout_height="3dip"
+        android:layout_below="@id/relativeLayout1"
+        android:background="@drawable/shape" />
+
+</RelativeLayout>

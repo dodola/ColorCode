@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="theme_values">
+        <item>zellner</item>
+        <item>whitengrey</item>
+        <item>whatis</item>
+        <item>vim-dark</item>
+        <item>vim</item>
+        <item>vampire</item>
+        <item>typical</item>
+        <item>the</item>
+        <item>rand01</item>
+        <item>print</item>
+        <item>peachpuff</item>
+        <item>pablo</item>
+        <item>night</item>
+        <item>neon</item>
+        <item>nedit</item>
+        <item>navy</item>
+        <item>matlab</item>
+        <item>kwrite</item>
+        <item>ide-msvcpp</item>
+        <item>ide-kdev</item>
+        <item>ide-eclipse</item>
+        <item>ide-devcpp</item>
+        <item>ide-codewarrior</item>
+        <item>ide-anjuta</item>
+        <item>greenlcd</item>
+        <item>golden</item>
+        <item>emacs</item>
+        <item>easter</item>
+        <item>dull</item>
+        <item>desert</item>
+        <item>darkness</item>
+        <item>darkblue</item>
+        <item>contrast</item>
+        <item>bright</item>
+        <item>blacknblue</item>
+        <item>bipolar</item>
+        <item>berries-light</item>
+        <item>berries-dark</item>
+        <item>acid</item>
+    </string-array>
+
+</resources>

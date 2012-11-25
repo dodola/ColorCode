@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/search_menu"
+        android:icon="@drawable/search"
+        android:title="搜索">
+    </item>
+    <item
+        android:id="@+id/select_menu"
+        android:icon="@drawable/edit"
+        android:title="选择">
+    </item>
+    <item
+        android:id="@+id/next_menu"
+        android:enabled="false"
+        android:icon="@drawable/next"
+        android:title="下一项">
+    </item>
+    <item
+        android:id="@+id/clear_menu"
+        android:enabled="false"
+        android:icon="@drawable/delete"
+        android:title="清空检索">
+    </item>
+    <item
+        android:id="@+id/option_menu"
+        android:enabled="true"
+        android:icon="@drawable/settings"
+        android:title="设置">
+    </item>
+    <item
+        android:id="@+id/options_menu"
+        android:enabled="true"
+        android:icon="@drawable/parent"
+        android:title="更多">
+        <menu>
+            <item
+                android:id="@+id/about_menu"
+                android:enabled="true"
+                android:title="关于">
+            </item>
+            <item
+                android:id="@+id/quit_menu"
+                android:enabled="true"
+                android:title="退出">
+            </item>
+        </menu>
+    </item>
+
+</menu>

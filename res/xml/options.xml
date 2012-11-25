@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:defaultValue="@string/default_theme"
+        android:dialogTitle="选择主题"
+        android:entries="@array/theme_values"
+        android:entryValues="@array/theme_values"
+        android:key="@string/selected_theme" android:title="选择主题"/>
+
+    <Preference android:title="版本 1.0" />
+
+</PreferenceScreen>
